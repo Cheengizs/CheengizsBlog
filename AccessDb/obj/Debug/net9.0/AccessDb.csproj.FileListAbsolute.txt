@@ -1,0 +1,17 @@
+D:\CheengizsBlog_ex\AccessDb\bin\Debug\net9.0\AccessDb.deps.json
+D:\CheengizsBlog_ex\AccessDb\bin\Debug\net9.0\AccessDb.runtimeconfig.json
+D:\CheengizsBlog_ex\AccessDb\bin\Debug\net9.0\AccessDb.dll
+D:\CheengizsBlog_ex\AccessDb\bin\Debug\net9.0\AccessDb.pdb
+D:\CheengizsBlog_ex\AccessDb\bin\Debug\net9.0\Core.dll
+D:\CheengizsBlog_ex\AccessDb\bin\Debug\net9.0\Core.pdb
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.csproj.AssemblyReference.cache
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.AssemblyInfoInputs.cache
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.AssemblyInfo.cs
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.csproj.CoreCompileInputs.cache
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.csproj.Up2Date
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.dll
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\refint\AccessDb.dll
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.pdb
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\AccessDb.genruntimeconfig.cache
+D:\CheengizsBlog_ex\AccessDb\obj\Debug\net9.0\ref\AccessDb.dll

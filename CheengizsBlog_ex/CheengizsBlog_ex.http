@@ -1,0 +1,6 @@
+@CheengizsBlog_ex_HostAddress = http://localhost:5117
+
+GET {{CheengizsBlog_ex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
